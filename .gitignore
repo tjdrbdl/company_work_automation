@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+kosis_config.py
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+index_update_log.csv
